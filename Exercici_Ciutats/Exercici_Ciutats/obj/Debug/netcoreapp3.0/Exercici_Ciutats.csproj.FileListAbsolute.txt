@@ -1,0 +1,11 @@
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\bin\Debug\netcoreapp3.0\Exercici_Ciutats.exe
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\bin\Debug\netcoreapp3.0\Exercici_Ciutats.deps.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\bin\Debug\netcoreapp3.0\Exercici_Ciutats.runtimeconfig.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\bin\Debug\netcoreapp3.0\Exercici_Ciutats.runtimeconfig.dev.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\bin\Debug\netcoreapp3.0\Exercici_Ciutats.dll
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\bin\Debug\netcoreapp3.0\Exercici_Ciutats.pdb
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\obj\Debug\netcoreapp3.0\Exercici_Ciutats.csprojAssemblyReference.cache
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\obj\Debug\netcoreapp3.0\Exercici_Ciutats.AssemblyInfoInputs.cache
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\obj\Debug\netcoreapp3.0\Exercici_Ciutats.AssemblyInfo.cs
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\obj\Debug\netcoreapp3.0\Exercici_Ciutats.dll
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Ciutats\Exercici_Ciutats\obj\Debug\netcoreapp3.0\Exercici_Ciutats.pdb
