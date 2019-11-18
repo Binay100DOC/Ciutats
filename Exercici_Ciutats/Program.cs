@@ -61,13 +61,56 @@ namespace Exercici_Ciutats
             Console.ReadLine();
 
             Console.WriteLine("!!!!!!!!!!!!!!!!!Fase 4!!!!!!!!!!!!!!!!!");
+            
+            char[] ciudad1 = { 'B', 'a', 'r', 'c', 'e', 'l', 'o', 'n', 'a' };
+            char[] ciudad2 = { 'M', 'a', 'd', 'r', 'i', 'd' };
+            char[] ciudad3 = { 'V', 'a', 'l', 'e', 'n', 'c', 'i', 'a' };
+            char[] ciudad4 = { 'C', 'a', 'd', 'i', 'z' };
+            char[] ciudad5 = { 'M', 'a', 'l', 'a', 'g', 'a' };
+            char[] ciudad6 = { 'S', 'a', 'n', 't', 'a', 'n', 'd', 'e', 'r' };
 
-            var firstCityArray = new char[nom.Length];
-            var secondCityArray = new char[secondCity.Length];
-            var thirdCityArray = new char[thirdCity.Length];
-            var fourthCityArray = new char[fourthCity.Length];
-            var fifthCityArray = new char[fifthCity.Length];
-            var sixthCityArray = new char[sixthCity.Length];
+            Console.WriteLine("Barcelona Invertido");
+            Array.Reverse(ciudad1);
+            foreach(char j in ciudad1)
+            {
+                Console.WriteLine(j);
+            }
+            Console.WriteLine("Madrid Invertido");
+
+            Array.Reverse(ciudad2);
+            foreach (char j in ciudad2)
+            {
+                Console.WriteLine(j);
+            }
+            Console.WriteLine("Valencia Invertido");
+
+            Array.Reverse(ciudad3);
+            foreach (char j in ciudad3)
+            {
+                Console.WriteLine(j);
+            }
+            Console.WriteLine("Cadiz Invertido");
+
+            Array.Reverse(ciudad4);
+            foreach (char j in ciudad4)
+            {
+                Console.WriteLine(j);
+            }
+            Console.WriteLine("Malaga Invertido");
+
+            Array.Reverse(ciudad5);
+            foreach (char j in ciudad5)
+            {
+                Console.WriteLine(j);
+            }
+            Console.WriteLine("Santander Invertido");
+
+            Array.Reverse(ciudad6);
+            foreach (char j in ciudad6)
+            {
+                Console.WriteLine(j);
+            }
+            Console.ReadKey();
         }
     }
 }
